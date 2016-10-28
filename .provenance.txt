@@ -50,3 +50,18 @@ sha: n/a
 # parameter values
 servicePort: 8000
 
+####
+
+# editor info
+name: atomist-project-templates.spring-boot-common-editors.AddHystrix
+group: atomist-project-templates
+artifact: spring-boot-common-editors
+version: 1.0.5
+
+# backing git repo
+repo: n/a
+branch: n/a
+sha: n/a
+
+# parameter values
+
