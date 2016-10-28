@@ -1,0 +1,20 @@
+# generator info
+name: Spring Boot Rest Microservice
+group: atomist-project-templates
+artifact: spring-rest-service
+version: 3.1.1
+
+# backing git repo
+repo: n/a
+branch: n/a
+sha: n/a
+
+# parameter values
+project_name: slavus-test
+artifact_id: slavus-test
+group_id: net.slavus
+version: 0.0.1-SNAPSHOT
+description: Slavus Spring MVC test
+root_package: net.slavus
+service_class_name: SlavusService
+
